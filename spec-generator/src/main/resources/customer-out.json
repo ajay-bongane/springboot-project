@@ -1,0 +1,19 @@
+{
+  "id" : 123,
+  "name" : "Ajay Bongane",
+  "phone" : "+49 176 14890478",
+  "age" : 32,
+  "projects" : [ "Remote Job Board", "Data Migration" ],
+  "address" : {
+    "street" : "Yorckstr. 75",
+    "city" : "Berlin",
+    "zipcode" : 10965,
+    "country" : "Germany"
+  },
+  "paymentMethods" : [ "PayPal", "Stripe" ],
+  "profileInfo" : {
+    "gender" : "Male",
+    "married" : "Yes",
+    "source" : "LinkedIn"
+  }
+}
